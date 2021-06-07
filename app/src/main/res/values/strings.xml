@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrentLocationExample</string>
+    <string name="get_current_location">Get Current Location</string>
+    <string name="time">Date/Time:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="time_result">Time result</string>
+    <string name="latitude_result">Latitude result</string>
+    <string name="longitude_result">Longitude result</string>
+    <string name="MAPS_API_KEY">AIzaSyC3ewIGDsFyh0nEnSgjZ46P0xQYE1Ub_20</string>
+</resources>
